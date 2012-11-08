@@ -15,6 +15,7 @@
     "darwin",
     "freebsd",
     "windows",
+    "win32",
     "solaris"
   ],
   "directories": {
